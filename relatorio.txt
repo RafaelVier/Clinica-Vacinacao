@@ -1,0 +1,7 @@
+Doses aplicadas: 0
+Doses disponiveis: 5
+
+Nenhum paciente vacinado no dia de hoje!
+
+
+Nenhum paciente na fila de espera!
